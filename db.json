@@ -6,29 +6,53 @@
               "url":"5f55f65ef03a810c53f37270",
               "Title":"Ruang A1"
               },
-              {
+               {
               "id":1,
+              "image":"https://i.ibb.co/TvWvT5b/A2-FIX.jpg",
+              "url":"5f799a5293d30c34a372dd51",
+              "Title":"Ruang A2"
+              },
+              {
+              "id":2,
               "image":"https://i.ibb.co/xMRfdhS/B1-FIX.jpg",
               "url":"5f5cd42f7178da045a1d4e25",
               "Title":"Ruang B1"
               },
+               {
+              "id":3,
+              "image":"https://i.ibb.co/4MqXb6w/B2-FIX.jpg",
+              "url":"5f7446292911db57087d3dc2",
+              "Title":"Ruang B2"
+              },
               {
-              "id":2,
+              "id":4,
               "image":"https://i.ibb.co/ZBd6scg/C1-FIX.jpg",
               "url":"5f6210e353824863a3cd28ba",
               "Title":"Ruang C1"
               },
+               {
+              "id":5,
+              "image":"https://i.ibb.co/VHGFcRm/C2-FIX.jpg",
+              "url":"5f7057e97789fb2b76b26190",
+              "Title":"Ruang C2"
+              },
               {
-              "id":3,
+              "id":6,
               "image":"https://i.ibb.co/72ZTsZ0/D1-FIX.jpg",
               "url":"5f68b6d501621115f8f8edf0",
               "Title":"Ruang D1"
               },
               {
-              "id":4,
+              "id":7,
               "image":"https://i.ibb.co/ZBd6scg/C1-FIX.jpg",
               "url":"5f6b0a347f31777558410679",
               "Title":"Ruang D2"
+              },
+              {
+              "id":8,
+              "image":"https://i.ibb.co/0DJmvPg/OUTDOOR-EXHIBITION-FIX.jpg",
+              "url":"5f8013667831e272c4f9e36e",
+              "Title":"Outdor Exhibition"
               }
         ]
 }
