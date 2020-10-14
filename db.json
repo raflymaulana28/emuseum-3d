@@ -52,7 +52,13 @@
               "id":8,
               "image":"https://i.ibb.co/0DJmvPg/OUTDOOR-EXHIBITION-FIX.jpg",
               "url":"5f8013667831e272c4f9e36e",
-              "Title":"Outdor Exhibition"
+              "Title":"Outdoor Exhibition"
+              },
+                {
+              "id":9,
+              "image":"https://i.ibb.co/kG5BZQs/RUANG-EMAS-FIX.jpg",
+              "url":"5f854455fb7462322ea4cf31",
+              "Title":"Ruang Emas"
               }
         ]
 }
